@@ -1,0 +1,500 @@
+{
+  "demo": false,
+  "preview": {
+    "notice": "Concept preview — prepared by SolvynxAI. This preview is for demonstration purposes and is not the official website of Precision Roofing.",
+    "formNotice": "This is a concept preview. Forms are not connected or submitted."
+  },
+  "testOnly": false,
+  "meta": {
+    "title": "Precision Roofing | Roofing in Lee's Summit, MO",
+    "description": "Precision Roofing: residential roofing, commercial roofing and storm damage repairs for homes and businesses in Lee's Summit and Kansas City. Free estimates.",
+    "robots": "noindex,nofollow,noarchive"
+  },
+  "brand": {
+    "accent": "#d2432c",
+    "accentDeep": "#b5361f",
+    "section": "#cf422c"
+  },
+  "business": {
+    "name": "Precision Roofing",
+    "shortName": "Precision Roofing",
+    "wordmark": "Precision Roofing",
+    "phone": "(816) 254-7100",
+    "phoneE164": "+18162547100",
+    "email": "info@roofingkc.com",
+    "address": "11903 E Lone Jack Lee's Summit Rd, Lee's Summit, MO 64086",
+    "hours": null,
+    "legal": "Concept preview",
+    "social": []
+  },
+  "nav": {
+    "services": "Services",
+    "work": "Reviews",
+    "areas": "Areas",
+    "crew": "Team",
+    "process": "Process",
+    "faq": "FAQ",
+    "cta": "Free estimate"
+  },
+  "drawer": {
+    "title": "What we do",
+    "link": "All services →",
+    "areasTitle": "Areas we serve",
+    "cards": [
+      {
+        "img": "service-roof-replacement",
+        "badge": "Residential",
+        "title": "Residential roofing",
+        "meta": "Kansas City and Lee's Summit"
+      },
+      {
+        "img": "service-siding",
+        "badge": "Commercial",
+        "title": "Commercial roofing",
+        "meta": "Business roofs"
+      },
+      {
+        "img": "service-roof-repair",
+        "badge": "Storm",
+        "title": "Storm damage repairs",
+        "meta": "After hail and wind"
+      },
+      {
+        "img": "service-roof-replacement",
+        "badge": "Large loss",
+        "title": "Catastrophe and large loss",
+        "meta": "Big jobs"
+      }
+    ],
+    "promo": {
+      "kicker": "Free estimate",
+      "title": "Get a free roof inspection",
+      "line": "Your roof is inspected and photographed, then you get a detailed proposal.",
+      "button": "Book it"
+    }
+  },
+  "hero": {
+    "eyebrow": "Residential & commercial roofing · Lee's Summit, MO",
+    "title": "Kansas City roofs<br /><mark class=\"hl\">since 1987.</mark>",
+    "lead": "Residential, commercial and large-loss roofing across Kansas City, from a family-owned company with over 15,000 roofs completed.",
+    "cta": "Book a free estimate",
+    "cta2": "See services",
+    "meta": "Google 4.8/5 · 120+ reviews · Est. 1987",
+    "chips": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "countLabel": "services",
+    "scrollHint": "Scroll to fly in",
+    "cursorLabel": "View service",
+    "featuredLabel": "Featured service",
+    "diveCta": "All services"
+  },
+  "jobs": [
+    {
+      "k": "roof",
+      "label": "Residential",
+      "em": "Free est.",
+      "type": null,
+      "town": "Lee's Summit, MO",
+      "title": "Residential roofing",
+      "img": "service-roof-replacement",
+      "line": "Roof replacement and repair for homes across Kansas City, from tear-off to installation.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1240,
+        900
+      ]
+    },
+    {
+      "k": "roof",
+      "label": "Commercial",
+      "em": null,
+      "type": null,
+      "town": "Lee's Summit, MO",
+      "title": "Commercial roofing",
+      "img": "service-siding",
+      "line": "Commercial roofing, including systems from Versico and Elevate.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        760,
+        520
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Storm",
+      "em": null,
+      "type": null,
+      "town": "Lee's Summit, MO",
+      "title": "Storm damage repairs",
+      "img": "service-roof-repair",
+      "line": "Storm damage repairs.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1820,
+        1300
+      ]
+    },
+    {
+      "k": "storm",
+      "label": "Large loss",
+      "em": null,
+      "type": null,
+      "town": "Lee's Summit, MO",
+      "title": "Catastrophe and large loss",
+      "img": "service-roof-replacement",
+      "line": "Catastrophe and large loss roofing.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        560,
+        1290
+      ]
+    },
+    {
+      "k": "other",
+      "label": "Inspection",
+      "em": null,
+      "type": null,
+      "town": "Lee's Summit, MO",
+      "title": "Roof inspections",
+      "img": "service-roof-replacement",
+      "line": "A thorough inspection and a free estimate before you commit.",
+      "fact": "Free estimate",
+      "meta": null,
+      "at": [
+        1480,
+        430
+      ]
+    }
+  ],
+  "stats": {
+    "eyebrow": "01 · Precision Roofing",
+    "title": "Google 4.8,<br /><mark>120+ reviews.</mark>",
+    "body": "BBB A+ accredited, GAF Certified and Owens Corning Preferred, with free estimates and financing.",
+    "cta": "Get a free estimate",
+    "signs": [
+      {
+        "value": "1987",
+        "label": "established"
+      },
+      {
+        "value": "4.8",
+        "label": "Google rating"
+      },
+      {
+        "value": "120+",
+        "label": "Google reviews"
+      },
+      {
+        "count": 5,
+        "label": "roofing services"
+      }
+    ],
+    "tickerLabel": "Why Precision Roofing",
+    "tickerBadge": null,
+    "ticker": [
+      [
+        "Family owned since 1987",
+        ""
+      ],
+      [
+        "BBB A+ accredited",
+        ""
+      ],
+      [
+        "GAF Certified Contractor",
+        ""
+      ],
+      [
+        "Owens Corning Preferred Contractor",
+        ""
+      ],
+      [
+        "Over 15,000 roofs completed",
+        ""
+      ],
+      [
+        "Financing available",
+        ""
+      ]
+    ]
+  },
+  "services": {
+    "eyebrow": "02 · Services",
+    "title": "Tear-off to<br /><mark>installation.</mark>",
+    "cta": "Free estimate",
+    "countLabel": "services",
+    "linkLabel": "Book a free estimate",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ],
+      [
+        "roof",
+        "Roofing"
+      ],
+      [
+        "storm",
+        "Storm & claims"
+      ],
+      [
+        "other",
+        "More"
+      ]
+    ],
+    "items": [
+      {
+        "f": "roof",
+        "big": true,
+        "tag": "Residential",
+        "img": "service-roof-replacement",
+        "title": "Residential roofing",
+        "sub": "Kansas City and Lee's Summit",
+        "line": "Roof replacement and repair for homes across Kansas City, from tear-off to installation.",
+        "specs": "Replacement · repair",
+        "pin": [
+          "Lee's Summit",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "roof",
+        "big": false,
+        "tag": "Commercial",
+        "img": "service-siding",
+        "title": "Commercial roofing",
+        "sub": "Business roofs",
+        "line": null,
+        "specs": "Versico · Elevate",
+        "pin": [
+          "Lee's Summit",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Storm",
+        "img": "service-roof-repair",
+        "title": "Storm damage repairs",
+        "sub": "After hail and wind",
+        "line": null,
+        "specs": "Storm repair",
+        "pin": [
+          "Lee's Summit",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "storm",
+        "big": false,
+        "tag": "Large loss",
+        "img": "service-roof-replacement",
+        "title": "Catastrophe and large loss",
+        "sub": "Big jobs",
+        "line": null,
+        "specs": "Large loss",
+        "pin": [
+          "Lee's Summit",
+          "free estimate"
+        ]
+      },
+      {
+        "f": "other",
+        "big": false,
+        "tag": "Inspection",
+        "img": "service-roof-replacement",
+        "title": "Roof inspections",
+        "sub": "Free estimate",
+        "line": null,
+        "specs": "Free estimate",
+        "pin": [
+          "Lee's Summit",
+          "free estimate"
+        ]
+      }
+    ]
+  },
+  "areas": {
+    "eyebrow": "03 · Areas we serve",
+    "title": "Across<br /><mark>Kansas City.</mark>",
+    "body": "Based in Lee's Summit, serving the Kansas City area.",
+    "cardLink": "Book a free estimate →",
+    "center": [
+      30,
+      46
+    ],
+    "items": [
+      {
+        "n": "Lee's Summit",
+        "c": "MO",
+        "x": 30,
+        "y": 46,
+        "img": "service-roof-replacement",
+        "badge": "Our office",
+        "stats": null,
+        "note": "11903 E Lone Jack Lee's Summit Rd, Lee's Summit, MO 64086"
+      },
+      {
+        "n": "Kansas City",
+        "c": "MO",
+        "x": 14,
+        "y": 26,
+        "img": "service-siding",
+        "badge": "Service area",
+        "stats": null,
+        "note": "Free inspection and estimate in Kansas City."
+      }
+    ]
+  },
+  "estimate": {
+    "eyebrow": "04 · Free estimate",
+    "title": "Tell us about<br /><mark class=\"dark\">your roof.</mark>",
+    "body": "Share a few details and we will follow up about your roof.",
+    "cardTitle": "Quick request",
+    "addressPlaceholder": "Street address",
+    "resultLabel": "Your roof",
+    "basis": "Free inspection in {town}",
+    "pricing": null,
+    "noPriceNote": "Material, roof height and pitch all affect the price. You get an exact price after an inspection, with no guesswork.",
+    "cta": "Book my free estimate",
+    "foot": "Free estimates · Financing available"
+  },
+  "process": {
+    "eyebrow": "How it works · 4 steps",
+    "title": "4 steps,<br /><mark>start to finish.</mark>",
+    "counterLabel": "Step",
+    "steps": [
+      {
+        "t": "Get in touch",
+        "x": "Call (816) 254-7100 or send the form below with a few details about your roof.",
+        "img": "ba-storm-before",
+        "vf": "Get in touch",
+        "pin": null,
+        "live": "Get in touch",
+        "chip": "Get in touch",
+        "flap": "GET IN TOU"
+      },
+      {
+        "t": "Inspection",
+        "x": "The roof is looked over on site so the work can be scoped properly.",
+        "img": "ba-worn-before",
+        "vf": "Inspection",
+        "pin": null,
+        "live": "Inspection",
+        "chip": "Inspection",
+        "flap": "INSPECTION"
+      },
+      {
+        "t": "Proposal",
+        "x": "You receive the scope of work and the price before anything starts.",
+        "img": "service-roof-repair",
+        "vf": "Proposal",
+        "pin": null,
+        "live": "Proposal",
+        "chip": "Proposal",
+        "flap": "PROPOSAL"
+      },
+      {
+        "t": "The work",
+        "x": "Work is scheduled at a time that suits you.",
+        "img": "service-roof-replacement",
+        "vf": "The work",
+        "pin": null,
+        "live": "The work",
+        "chip": "The work",
+        "flap": "THE WORK"
+      }
+    ]
+  },
+  "crew": {
+    "show": false,
+    "items": []
+  },
+  "stories": {
+    "show": false,
+    "eyebrow": "05 · Reviews",
+    "title": "What customers<br /><mark>say.</mark>",
+    "plateTitle": "4.8",
+    "photoNote": "Illustrative photo",
+    "items": []
+  },
+  "season": {
+    "show": false,
+    "towns": {},
+    "posts": []
+  },
+  "faq": {
+    "eyebrow": "05 · Questions",
+    "title": "Questions,<br /><mark>answered.</mark>",
+    "contactLead": "Didn’t see your question? Call",
+    "contactJoin": "or email",
+    "contactTail": "",
+    "cta": "Call us",
+    "tabs": [
+      [
+        "all",
+        "All"
+      ]
+    ],
+    "items": [
+      {
+        "g": "all",
+        "q": "What services do you offer?",
+        "a": "Residential roofing, commercial roofing, storm damage repairs, catastrophe and large loss and roof inspections."
+      },
+      {
+        "g": "all",
+        "q": "Which areas do you serve?",
+        "a": "Lee's Summit and Kansas City, MO."
+      },
+      {
+        "g": "all",
+        "q": "How do I get a free estimate?",
+        "a": "Use the form on this page, or call (816) 254-7100 and email info@roofingkc.com."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Free estimate",
+    "title": "Get a free<br /><mark>estimate.</mark>",
+    "body": "Choose a service and a time that suits you, and the team will be in touch to confirm.",
+    "cardTitle": "Book a free estimate",
+    "cardNote": "About 60 seconds",
+    "times": [
+      "9:00 am",
+      "11:00 am",
+      "1:00 pm",
+      "3:00 pm"
+    ],
+    "submit": "Request visit",
+    "thanks": "Thanks, <b>{name}</b>. This is a concept preview. Forms are not connected or submitted. To book, call (816) 254-7100.",
+    "under": "Google 4.8/5 · 120+ reviews · Est. 1987",
+    "callPrefix": "Or call"
+  },
+  "footer": {
+    "officeLabel": "Our office",
+    "companyTitle": "Company",
+    "newsletter": null
+  }
+}
